@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c#, js, dart
-- 💞️ I’m looking to collaborate on anything that brings money
+- 💞️ I’m looking to collaborations.
 - 📫 How to reach me: telegram.me/go_go_power_go
 
 <!---
