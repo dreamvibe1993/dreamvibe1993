@@ -1,5 +1,6 @@
 - 👋 Hi, I’m George
-- 📫 How to reach me: telegram.me/go_go_power_go
+- 👉 [https://georgy-apraksin.space](https://georgy-apraksin.space/)
+- 📫 Telegram: telegram.me/georgy-apraksin
 
 <!---
 dreamvibe1993/dreamvibe1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
